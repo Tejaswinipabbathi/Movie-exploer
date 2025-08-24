@@ -1,6 +1,6 @@
-# 🎬 MovieBazar
+# 🎬 MovieExplorer
 
-Welcome to **MovieBazar** – your mini online cinema experience! 🍿✨  
+Welcome to **MovieExplorer** – your mini online cinema experience! 🍿✨  
 A sleek, interactive movie rating viewer built with **HTML, CSS, and JavaScript**.  
 Explore movies, check ratings, and get overviews with a simple hover – all in a modern, dark-themed layout.  
 
@@ -29,23 +29,19 @@ Explore movies, check ratings, and get overviews with a simple hover – all in 
 
 ## 🎨 Tech Stack
 
-- **HTML5** – structure and content  
-- **CSS3** – styling, hover effects, color-coded badges  
-- **JavaScript** – dynamic rendering, search functionality  
-- **Google Fonts (Poppins)** – clean, modern typography  
+- HTML5 – structure and content  
+- CSS3 – styling, hover effects, color-coded badges  
+- JavaScript – dynamic rendering, search functionality  
+- Google Fonts (Poppins) – clean, modern typography  
 
 ---
 
-## 🖥 How to Run
+## 🖥 How to Use
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/moviebazar.git
+1. **Open `index.html`** in your browser  
+2. **Search and hover** on your favorite movies to explore!
 
-2. Open index.html in your browser
 
-3. Search and hover on your favorite movies to explore!
-
-📝 Author
- Tejaswini Pabbathi
-Aspiring Web Developer | Front-End Enthusiast | 
+---
+Author:
+Tejaswini Pabbathi
